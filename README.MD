@@ -1,4 +1,4 @@
-# Docker Logging Lab
+# Pipeline de Logs do Nginx com Fluentbit, Kafka, Kafka Manager, Logstash, Elasticsearch e Kibana
 
 Este repositório contém um lab prático que demonstra a configuração de um pipeline de logging utilizando Docker, Nginx, Fluentbit, Kafka, Logstash, Elasticsearch e Kibana (ELK stack). O objetivo é capturar logs de acesso e erro do Nginx e enviá-los para um tópico Kafka, consumi-los com Logstash, armazená-los no Elasticsearch, e visualizá-los no Kibana.
 
